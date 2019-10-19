@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7c5449-54c6-4b51-beea-1a98733dea56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab5clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5clone.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5clone.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coe318/lab5/BlackjackGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coe318/lab5/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coe318/lab5/CardPile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coe318/lab5/SimpleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coe318/lab5/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5clone.iws" beforeDir="false" afterPath="$PROJECT_DIR$/lab5clone.iws" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,12 +99,20 @@
       <option name="project" value="LOCAL" />
       <updated>1571446969270</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Additional Commit">
+      <created>1571447154225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571447154225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Initial Commit:&#10;&#10;BlackJack Game&#10;- implements arraylists and interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit:&#10;&#10;BlackJack Game&#10;- implements arraylists and interfaces" />
+    <MESSAGE value="Additional Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Additional Commit" />
   </component>
 </project>
