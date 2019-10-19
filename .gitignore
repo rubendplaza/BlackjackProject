@@ -1,2 +1,7 @@
-.idea
-.class
+.idea/
+.class/
+/out/production/lab5clone/coe318/lab5/BlackjackGame.class
+/out/production/lab5clone/coe318/lab5/Card.class
+/out/production/lab5clone/coe318/lab5/CardPile.class
+/out/production/lab5clone/coe318/lab5/SimpleUI.class
+/out/production/lab5clone/coe318/lab5/UserInterface.class

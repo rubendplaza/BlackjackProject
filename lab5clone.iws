@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7c5449-54c6-4b51-beea-1a98733dea56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab5clone.iws" beforeDir="false" afterPath="$PROJECT_DIR$/lab5clone.iws" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,13 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571447154225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".gitignore commit">
+      <created>1571447372378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571447372378</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Initial Commit:&#10;&#10;BlackJack Game&#10;- implements arraylists and interfaces" />
     <MESSAGE value="Additional Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Additional Commit" />
+    <MESSAGE value=".gitignore commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore commit" />
   </component>
 </project>
